@@ -1,3 +1,3 @@
 # git-test
 
-chnaging in github only
+Git test clone
